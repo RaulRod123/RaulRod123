@@ -1,4 +1,22 @@
 ## Hi there 👋
+>what is going on I say:
+
+| Rank | THINGS I LIKE |
+|-----:|---------------|
+|     1|   PIZZA       |
+|     2|   CHEESE      |
+|     3|   HOTDOGS     |
+
+
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
+
 
 <!--
 **RaulRod123/RaulRod123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
